@@ -1,8 +1,1 @@
-# CSE QBR Lab - ZTNA with FortiWeb
-
-
-# Setup
-- Accept the terms for FortiWeb PAYG Image:
-```bash
-az vm image accept-terms --urn fortinet:fortinet_fortiweb-vm_v5:fortinet_fw-vm_payg_v2:latest
-```
+<h1>technical-recipe-azure-fweb-ztna-fortisoar</h1><h3>To view the workshop, please go here: <a href="https://fortinetcloudcse.github.io/technical-recipe-azure-fweb-ztna-fortisoar/">technical-recipe-azure-fweb-ztna-fortisoar</a></h3><hr><h3>For more information on creating these workshops, please go here: <a href="https://fortinetcloudcse.github.io/UserRepo/">FortinetCloudCSE User Repo</a></h3>
